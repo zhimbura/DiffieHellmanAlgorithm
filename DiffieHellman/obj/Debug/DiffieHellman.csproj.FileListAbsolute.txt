@@ -1,0 +1,15 @@
+C:\Users\tihus\source\repos\DiffieHellman\DiffieHellman\bin\Debug\DiffieHellman.exe.config
+C:\Users\tihus\source\repos\DiffieHellman\DiffieHellman\bin\Debug\DiffieHellman.exe
+C:\Users\tihus\source\repos\DiffieHellman\DiffieHellman\bin\Debug\DiffieHellman.pdb
+C:\Users\tihus\source\repos\DiffieHellman\DiffieHellman\obj\Debug\DiffieHellman.csprojResolveAssemblyReference.cache
+C:\Users\tihus\source\repos\DiffieHellman\DiffieHellman\obj\Debug\MainWindow.g.cs
+C:\Users\tihus\source\repos\DiffieHellman\DiffieHellman\obj\Debug\App.g.cs
+C:\Users\tihus\source\repos\DiffieHellman\DiffieHellman\obj\Debug\DiffieHellman_MarkupCompile.cache
+C:\Users\tihus\source\repos\DiffieHellman\DiffieHellman\obj\Debug\DiffieHellman_MarkupCompile.lref
+C:\Users\tihus\source\repos\DiffieHellman\DiffieHellman\obj\Debug\MainWindow.baml
+C:\Users\tihus\source\repos\DiffieHellman\DiffieHellman\obj\Debug\DiffieHellman.g.resources
+C:\Users\tihus\source\repos\DiffieHellman\DiffieHellman\obj\Debug\DiffieHellman.Properties.Resources.resources
+C:\Users\tihus\source\repos\DiffieHellman\DiffieHellman\obj\Debug\DiffieHellman.csproj.GenerateResource.Cache
+C:\Users\tihus\source\repos\DiffieHellman\DiffieHellman\obj\Debug\DiffieHellman.csproj.CoreCompileInputs.cache
+C:\Users\tihus\source\repos\DiffieHellman\DiffieHellman\obj\Debug\DiffieHellman.exe
+C:\Users\tihus\source\repos\DiffieHellman\DiffieHellman\obj\Debug\DiffieHellman.pdb
